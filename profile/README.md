@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://gf2.geo.gfsrv.net/cdn13/02f12f6e3cfa760f52f57fa152387a.png" align="center" alt="NosTale logo"></br>
-<h1 align="center">Nos-Wiki Project</h1>
+<img src="https://gf2.geo.gfsrv.net/cdn13/02f12f6e3cfa760f52f57fa152387a.png" alt="NosTale logo"></br>
+<h1>Nos-Wiki Project</h1>
 </p>
 
 ## 1. Who we are?
